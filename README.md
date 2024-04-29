@@ -83,7 +83,7 @@ Module is under active development and there are some known issues:
      - /2023-10 OR 2023-10/ [ Will not map as format is not supported ]
 
 ## Sponsors
-* University of Limerick
+* State of Florida
 
 ## Maintainers
 Current maintainers:
